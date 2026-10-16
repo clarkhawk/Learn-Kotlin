@@ -1,6 +1,6 @@
 # Types de base
 
-Chaque variable et structure de données en Kotlin possède un type. Les types sont importants car ils indiquent au compilateur ce que vous êtes autorisé à faire avec cette variable ou cette structure de données — autrement dit, les fonctions et propriétés dont elle dispose.
+Chaque variable et structure de données en Kotlin possède un type. Les types sont importants car ils indiquent au compilateur ce que vous êtes autorisé à faire avec cette variable ou cette structure de données, autrement dit, les fonctions et propriétés dont elle dispose.
 
 Dans le chapitre précédent, Kotlin a pu déterminer dans l'exemple précédent que `customers` était de type `Int`. La capacité de Kotlin à **déduire** le type s'appelle l'**inférence de type** (*type inference*). Une valeur entière étant assignée à `customers`, Kotlin en déduit que `customers` a un type numérique `Int`. Par conséquent, le compilateur sait que vous pouvez effectuer des opérations arithmétiques avec `customers` :
 
