@@ -179,7 +179,6 @@ This repository serves as a structured reference guide and practice workspace fo
 * Return on when statement
 * try-catch expression
 * if expression
-* Builder-Voici le fichier `README.md` complet depuis le début, structuré de façon claire, professionnelle et sans émojis.
 
 ### [24. Delegated Properties](24-delegated-properties/README.md)
 * Standard delegates
