@@ -1,0 +1,16 @@
+site_name: Kotlin Fundamentals
+site_url: https://clarkhawk.github.io/Learn-Kotlin/
+repo_url: https://github.com/clarkhawk/Learn-Kotlin
+docs_dir: docs
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.footer
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
