@@ -1,6 +1,6 @@
 # HELLO WORLD
 
-Voici un programme simple qui affiche "Hello, Magnus!":
+Voici un programme simple qui affiche "Hello, Magnus!" :
 
 
 ```kotlin
@@ -75,7 +75,7 @@ fun main() {
 
 Pour plus d'informations, consultez la documentation sur les [String templates.]()
 
-Vous remarquerez qu'aucun type n'a été explicitement déclaré pour les variables. Kotlin a inféré le type lui-même : `Int`. Ce parcours détaille les différents types de base de Kotlin et leur déclaration dans le [chapitre suivant](02-basic-types/README.md).
+Vous remarquerez qu'aucun type n'a été explicitement déclaré pour les variables. Kotlin a inféré le type lui-même : `Int`. Ce parcours détaille les différents types de base de Kotlin et leur déclaration dans le [chapitre suivant](../02-basic-types/README.md).
 
 ## Practice
 
